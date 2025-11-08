@@ -10,7 +10,6 @@ const msgWinEl = document.querySelector('.message-win');
 const msgLoseEl = document.querySelector('.message-lose');
 
 const game = new Game();
-
 let isMoving = false;
 let firstMoveDone = false;
 
